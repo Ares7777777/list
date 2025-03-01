@@ -17,7 +17,7 @@ http://185.23.80.28:8080/TNT_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="che" tvg-logo="https://iptvx.one/picons/che.png" group-title="Развлекательные",Че!
 http://178.212.71.253:8002/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Развлекательные",Ю
-http://95.181.17.6/dvr01/mobile2/utv/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDI1IDg6MDQ6NDEgQU0maGFzaF92YWx1ZT1RTDFrVEpNd2tqeGJhL3NLajE1T0Z3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+http://flu.ttk.mx:90/U/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="новости",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="mir24" tvg-logo="https://iptvx.one/picons/mir24.png" group-title="новости",Мир 24
@@ -27,17 +27,15 @@ http://92.53.64.197:5050/Perviy_Kanal/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="новости",Первый канал HD
 http://194.143.148.28:8080/PerviyHD/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://github.com/Ares7777777/IPTV/blob/Logos/russia-1.png?raw=true" group-title="новости",Россия 1
-http://185.23.80.28:8080/Rossiya1/index.m3u8?token=test
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia24.png" group-title="новости",Россия 24
-http://flu.ttk.mx:90/Rossiya24/mono.m3u8?token=hs06e
-#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia24.png" group-title="новости",Россия 24 Воронеж
-http://185.23.80.28:8080/Rossiya24/index.m3u8?token=test
-#EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://iptvx.one/picons/rtr-planeta.png" group-title="новости",РТР-Планета Европа
-http://ott-cdn.ucom.am/s15/index.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="фильмы",НТВ Мир
-http://ott-cdn.ucom.am/s17/04.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia24.png" group-title="новости",Россия 24
+http://185.23.80.29:8080/Rossiya24/index.m3u8?token=test
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="фильмы",НТВ
+http://93.189.224.246:52900/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="фильмы",Мосфильм. Золотая коллекция
-http://185.50.148.2:7706/Mosfilm/index.m3u8
+http://flu.ttk.mx:90/Mosfilm/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="фильмы",Домашний
 http://178.124.152.238:8088/dom
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="фильмы",Дом Кино
@@ -45,7 +43,7 @@ https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="фильмы",Дом Кино Премиум
 http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Развлекательные",СТС
-http://185.23.80.28:8080/STS/index.m3u8?token=test
+http://flu.ttk.mx:90/STS/mono.m3u8?token=hs06e
 ## #EXTINF:-1 tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts-int.png" group-title="Развлекательные",СТС International
 ## https://cdn2.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="Развлекательные",СТС Love
@@ -59,7 +57,7 @@ http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" tvg-logo="https://iptvx.one/picons/kinokomedia.png" group-title="фильмы",Кинокомедия
 http://213.226.137.140:81/tl/l52/mpegts
 #EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="фильмы",Победа
-http://arbiter.bolshoe.tv/?path=abr1/pobeda/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDI1IDg6MDQ6NDEgQU0maGFzaF92YWx1ZT1RTDFrVEpNd2tqeGJhL3NLajE1T0Z3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+http://45.11.139.43:8555/pobeda/index.m3u8
 #EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="фильмы",Победа
 https://streaming.skynetconnect.online/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="фильмы",Звезда
