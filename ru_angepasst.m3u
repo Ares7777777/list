@@ -1,7 +1,9 @@
 #EXTINF:-1 tvg-id="pyatnica" tvg-logo="https://iptvx.one/picons/pyatnica.png" group-title="Развлекательные",Пятница!
-https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
-#EXTINF:-1 tvg-id="pyatnica" tvg-logo="https://iptvx.one/picons/pyatnica.png" group-title="Развлекательные",Пятница! International
-https://stream01.vnet.am/Pyatnica/mono.m3u8
+http://178.212.71.253:8000/play/16/index.m3u8
+#EXTINF:-1 tvg-id="pyatnica" tvg-logo="https://iptvx.one/picons/pyatnica.png" group-title="Развлекательные",Пятница!
+http://api.peers.tv/timeshift/friday/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI3MTY3NjEsImlhdCI6MTc0MjYzMDM2MSwiY2lkIjo2LCJ1aWQiOjkwMzM4OTgzMSwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.px7YHiymVSTxtBhhDXfzPTwA1neTGqd5AEr8y_K4rJc&offset=10
+## #EXTINF:-1 tvg-id="pyatnica" tvg-logo="https://iptvx.one/picons/pyatnica.png" group-title="Развлекательные",Пятница! International
+## https://stream01.vnet.am/Pyatnica/mono.m3u8
 #EXTINF:-1 tvg-id="perec" tvg-logo="https://iptvx.one/picons/perec.png" group-title="Развлекательные",Перец
 http://stream01.vnet.am/Perec/mono.m3u8
 #EXTINF:-1 tvg-id="perec" tvg-logo="https://iptvx.one/picons/perec.png" group-title="Развлекательные",Перец
@@ -17,7 +19,7 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=MJ
 #EXTINF:-1 tvg-id="che" tvg-logo="https://iptvx.one/picons/che.png" group-title="Развлекательные",Че!
 http://178.212.71.253:8002/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Развлекательные",Ю
-https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=jMv5dpUl5lniTF4Y2v_onw&e=1742457509&scheme=https
+http://92.53.64.197:5050/yu/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="новости",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="mir24" tvg-logo="https://iptvx.one/picons/mir24.png" group-title="новости",Мир 24
@@ -39,13 +41,13 @@ http://91.205.199.3/mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="фильмы",Домашний
 http://178.124.152.238:8088/dom
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="фильмы",Дом Кино
-https://stream01.vnet.am/DomKino/mono.m3u8
+http://65.21.85.175:8000/play/a00m/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="фильмы",Дом Кино Премиум
-http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
+http://mfe01.cliptv.az/dash/Dom_Kino_Premium_HDsdfgio81.ism/playlist.mpd
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Развлекательные",СТС
-http://stream02.vnet.am/CTC/mono.m3u8
+http://api.peers.tv/timeshift/sts/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI3MTY3NjEsImlhdCI6MTc0MjYzMDM2MSwiY2lkIjo2LCJ1aWQiOjkwMzM4OTgzMSwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.px7YHiymVSTxtBhhDXfzPTwA1neTGqd5AEr8y_K4rJc&offset=1
 #EXTINF:-1 tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts-int.png" group-title="Развлекательные",СТС International
-https://cdn2.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
+http://213.91.178.133:8000/play/a042
 #EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="Развлекательные",СТС Love
 http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="pyatij" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-title="фильмы",Пятый канал
