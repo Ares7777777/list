@@ -45,13 +45,13 @@ http://178.124.152.238:8088/dom
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="фильмы",Дом Кино
 http://65.21.85.175:8000/play/a00m/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="фильмы",Дом Кино Премиум
-http://mfe01.cliptv.az/dash/Dom_Kino_Premium_HDsdfgio81.ism/playlist.mpd
+http://api.peers.tv/timeshift/dom_kino_premium/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI4MDMxNDMsImlhdCI6MTc0MjcxNjc0MywiY2lkIjo2LCJ1aWQiOjkwMzY2NDgyMCwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.BqcvGvEY8kGqcBbx3jEGCPhfhV546IA9m8WN6Bkc6Ec&offset=10
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Развлекательные",СТС
 http://193.35.224.154/8005/index.m3u8?token=panda
 #EXTINF:-1 tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts-int.png" group-title="Развлекательные",СТС International
 http://213.91.178.133:8000/play/a042
 #EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="Развлекательные",СТС Love
-http://178.212.71.253:8002/play/a00r/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/stslove.m3u8
 #EXTINF:-1 tvg-id="pyatij" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-title="фильмы",Пятый канал
 http://193.35.224.154/8009/index.m3u8?token=panda
 #EXTINF:-1 tvg-id="super" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Развлекательные",Субботa!
