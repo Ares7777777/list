@@ -44,8 +44,8 @@ http://91.205.199.3/mosfilm/index.m3u8
 http://178.124.152.238:8088/dom
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="фильмы",Дом Кино
 http://65.21.85.175:8000/play/a00m/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="фильмы",Дом Кино Премиум
-http://mfe01.cliptv.az/dash/Dom_Kino_Premium_HDsdfgio81.ism/playlist.mpd
+## #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="фильмы",Дом Кино Премиум
+## http://mfe01.cliptv.az/dash/Dom_Kino_Premium_HDsdfgio81.ism/playlist.mpd
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Развлекательные",СТС
 http://193.35.224.154/8005/index.m3u8?token=panda
 #EXTINF:-1 tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts-int.png" group-title="Развлекательные",СТС International
