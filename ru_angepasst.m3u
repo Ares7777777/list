@@ -1,9 +1,9 @@
 #EXTINF:-1 tvg-id="pyatnica" tvg-logo="https://iptvx.one/picons/pyatnica.png" group-title="Развлекательные",Пятница! HD
 https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1 tvg-id="pyatnica" tvg-logo="https://iptvx.one/picons/pyatnica.png" group-title="Развлекательные",Пятница! HD
-http://193.35.224.154/8066/index.m3u8?token=panda
+https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=735tDOf2SmVye7tKSkusxg&e=1742889712&scheme=https
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Развлекательные",Ю
-http://193.35.224.154/8099/index.m3u8?token=panda
+http://194.143.148.28:8080/U/mpegts
 ## #EXTINF:-1 tvg-id="pyatnica" tvg-logo="https://iptvx.one/picons/pyatnica.png" group-title="Развлекательные",Пятница! International
 ## https://stream01.vnet.am/Pyatnica/mono.m3u8
 #EXTINF:-1 tvg-id="perec" tvg-logo="https://iptvx.one/picons/perec.png" group-title="Развлекательные",Перец
@@ -18,24 +18,20 @@ https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 ## https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=MJNzy6BMU7A5VyF77Q3SHg&e=1742457432&scheme=https
 #EXTINF:-1 tvg-id="che" tvg-logo="https://iptvx.one/picons/che.png" group-title="Развлекательные",Че!
 https://livetv.mylifeisgood.net.ru/channels/che.m3u8
-#EXTINF:-1 tvg-id="che" tvg-logo="https://iptvx.one/picons/che.png" group-title="Развлекательные",Че!
-http://193.35.224.154/8008/index.m3u8?token=panda
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="новости",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="mir24" tvg-logo="https://iptvx.one/picons/mir24.png" group-title="новости",Мир 24
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://github.com/Ares7777777/IPTV/blob/Logos/perviy.png?raw=true" group-title="новости",Первый канал
-http://193.35.224.154/8001/index.m3u8?token=panda
+http://135.181.115.81:8000/play/a03a/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://github.com/Ares7777777/IPTV/blob/Logos/perviy.png?raw=true" group-title="новости",Первый канал
+http://92.53.64.197:5050/Perviy_Kanal/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="новости",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://github.com/Ares7777777/IPTV/blob/Logos/russia-1.png?raw=true" group-title="новости",Россия 1
-http://193.35.224.154/8002/index.m3u8?token=panda
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://github.com/Ares7777777/IPTV/blob/Logos/russia-1.png?raw=true" group-title="новости",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia24.png" group-title="новости",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
-#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia24.png" group-title="новости",Россия 24
-http://193.35.224.154/8125/index.m3u8?token=panda
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="фильмы",НТВ
 http://91.205.199.3:80/roos-ntvmir/manifest.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="фильмы",Мосфильм. Золотая коллекция
@@ -47,13 +43,13 @@ http://65.21.85.175:8000/play/a00m/index.m3u8?token=livetv
 ## #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="фильмы",Дом Кино Премиум
 ## http://mfe01.cliptv.az/dash/Dom_Kino_Premium_HDsdfgio81.ism/playlist.mpd
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Развлекательные",СТС
-http://193.35.224.154/8005/index.m3u8?token=panda
+https://streaming.skynetconnect.online/live/296-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts-int.png" group-title="Развлекательные",СТС International
 http://213.91.178.133:8000/play/a042
 #EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="Развлекательные",СТС Love
 https://livetv.mylifeisgood.net.ru/channels/stslove.m3u8
 #EXTINF:-1 tvg-id="pyatij" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-title="фильмы",Пятый канал
-http://193.35.224.154/8009/index.m3u8?token=panda
+http://213.91.178.133:8000/play/a0av
 #EXTINF:-1 tvg-id="super" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Развлекательные",Субботa!
 http://130.193.73.10:8937/play/a03a
 #EXTINF:-1 tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="новости",Известия
@@ -67,9 +63,9 @@ https://streaming.skynetconnect.online/live/43-req_offset_28000000-req_window_0-
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="фильмы",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="спорт",Eurosport 1
-http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://iptvx.one/picons/eurosport2.png" group-title="спорт",Eurosport 2
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+## #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://iptvx.one/picons/eurosport2.png" group-title="спорт",Eurosport 2
+## http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 tvg-id="futbol" tvg-logo="https://iptvx.one/picons/futbol.png" group-title="спорт",Футбол
 http://api.peers.tv/timeshift/futbol_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI0NTc1OTIsImlhdCI6MTc0MjM3MTE5MiwiY2lkIjo2LCJ1aWQiOjkwMjYwNDQzNiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MzA3MzMsImFkdWx0IjpmYWxzZX0.eg5-AdQg_MIxO61pYOE_MynPabrVMzPokgmOF5wmEaw&offset=10
 #EXTINF:-1 tvg-id="rbk" tvg-logo="https://iptvx.one/picons/rbk.png" group-title="новости",РБК ТВ
