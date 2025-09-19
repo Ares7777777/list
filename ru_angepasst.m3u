@@ -1,7 +1,7 @@
-### #EXTINF:-1 tvg-id="pyatnica" tvg-logo="https://iptvx.one/picons/pyatnica.png" group-title="Развлекательные",Пятница!
-### http://92.53.64.197:5050/pyatnica/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-id="pyatnica" tvg-logo="https://iptvx.one/picons/pyatnica.png" group-title="Развлекательные",Пятница!
+http://178.212.71.253:8000/play/16/index.m3u8
 #EXTINF:-1 tvg-id="pyatnica" tvg-logo="https://iptvx.one/picons/pyatnica.png" group-title="Развлекательные",Пятница! HD
-https://livetv.mylifeisgood.net.ru/channels/fridayhd.m3u8
+https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=NOhu1vFC-aiTo1UH5swKzw&e=1758350863&scheme=https
 #EXTINF:-1 tvg-id="pyatnica" tvg-logo="https://iptvx.one/picons/pyatnica.png" group-title="Развлекательные",Пятница! International
 https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Развлекательные",Ю
@@ -9,9 +9,7 @@ http://194.143.148.28:8080/U/mpegts
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Развлекательные",Ю
 https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
 #EXTINF:-1 tvg-id="perec" tvg-logo="https://iptvx.one/picons/perec.png" group-title="Развлекательные",Перец
-http://178.124.152.238:8088/perec
-#EXTINF:-1 tvg-id="perec" tvg-logo="https://iptvx.one/picons/perec.png" group-title="Развлекательные",Перец
-http://213.91.178.133:8000/play/a0ay
+http://158.101.222.193:88/georgia_play.php?id=perec
 ### #EXTINF:-1 tvg-id="perec" tvg-logo="https://iptvx.one/picons/perec.png" group-title="Развлекательные",Перец International
 ### http://stream01.vnet.am/Perec/mono.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="http://epg.one/img2/353.png" group-title="Развлекательные",ТНТ
