@@ -13,7 +13,7 @@ http://93.125.121.61:8383/play/a007
 #EXTINF:-1 tvg-id="perec" tvg-logo="https://iptvx.one/picons/perec.png" group-title="Развлекательные",Перец International
 http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTINF:-1 tvg-id="tnt" tvg-logo="http://epg.one/img2/353.png" group-title="Развлекательные",ТНТ
-http://85.187.13.40:18000/tntint
+http://178.212.71.253:8000/play/19/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="http://epg.one/img2/353.png" group-title="Развлекательные",ТНТ
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 ### #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Развлекательные",ТНТ HD
